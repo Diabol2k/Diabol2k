@@ -5,7 +5,7 @@
 I'm a development of multiplatform applications student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 <h3>
-  What i'm learning or interested
+  What i'm learning or interested 💭🖥️
 
 </br>
 </br>
