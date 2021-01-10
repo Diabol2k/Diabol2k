@@ -8,6 +8,8 @@ I'm a development of multiplatform applications student who is passionate about 
   What i'm learning or interested
 
 </br>
+</br>
+</br>
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
